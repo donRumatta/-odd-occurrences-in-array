@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{3259F957-03D7-4FAE-A6BE-7B0A6C1EDD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{17E26100-8234-43B9-B40B-855327E86775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3259F957-03D7-4FAE-A6BE-7B0A6C1EDD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3259F957-03D7-4FAE-A6BE-7B0A6C1EDD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3259F957-03D7-4FAE-A6BE-7B0A6C1EDD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3259F957-03D7-4FAE-A6BE-7B0A6C1EDD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E26100-8234-43B9-B40B-855327E86775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E26100-8234-43B9-B40B-855327E86775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E26100-8234-43B9-B40B-855327E86775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E26100-8234-43B9-B40B-855327E86775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
